@@ -24,12 +24,12 @@ I enjoy transforming raw data into meaningful insights, building end-to-end data
 
 # ⭐ Featured Projects
 
-### ⭐ 8 Projects
+### ⭐ 8 Featured Projects
 
 | ⭐ | Project | Description | Technologies |
 |---|---|---|---|
-| ⭐ | [Smartphone ETL & Smart Deal Analyzer](https://github.com/engmohammedhisham/Smartphone-ETL-Smart-Deal-Analyzer) | ETL pipeline, data cleaning, analysis and smart deal prediction | Python • Pandas • ML |
-| ⭐ | [Hotel Bookings Analysis](https://github.com/engmohammedhisham/hotel_bookings_analysis) | Hotel booking analysis, visualization and predictive modeling | Python • Pandas • ML |
+| ⭐ | [Smartphone ETL & Smart Deal Analyzer](https://github.com/engmohammedhisham/Smartphone-ETL-Smart-Deal-Analyzer) | ETL pipeline, data cleaning, analysis and smart deal prediction | Python • Pandas • Machine Learning |
+| ⭐ | [Hotel Bookings Analysis](https://github.com/engmohammedhisham/hotel_bookings_analysis) | Hotel booking analysis, visualization and predictive modeling | Python • Pandas • Machine Learning |
 | ⭐ | [Machine Learning Internship](https://github.com/engmohammedhisham/machine-learning-intern) | Machine Learning projects and practical experiments | Python • Machine Learning |
 | ⭐ | [E-Commerce Console System](https://github.com/engmohammedhisham/E-Commerce-Console-System) | Console-based e-commerce management system | C++ • OOP |
 | ⭐ | [Pharmacy Management System](https://github.com/engmohammedhisham/pharmacy-management-system) | Pharmacy inventory and management system | Python • OOP • Tkinter |
@@ -108,29 +108,37 @@ My goal is to combine programming, statistics, visualization, and machine learni
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=engmohammedhisham&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=engmohammedhisham&theme=blue-green&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=engmohammedhisham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" height="180"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=engmohammedhisham&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmohammedhisham&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=engmohammedhisham&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# ⭐ Total Stars Earned
+
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/badge/Total%20Stars%20Earned-8-FFD700?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=engmohammedhisham&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=engmohammedhisham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=engmohammedhisham&icon=0&color=0)
+</div>
 
 ---
 
