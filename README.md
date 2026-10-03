@@ -132,14 +132,6 @@ My goal is to combine programming, statistics, visualization, and machine learni
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=engmohammedhisham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</div>
-
----
 
 > **Turning data into insights, and ideas into working solutions.**
