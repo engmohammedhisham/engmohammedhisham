@@ -1,137 +1,103 @@
-# 👋 Hi, I'm Mohammed Hisham
-
-🎓 Computer Science Student at **Zewail City of Science and Technology**  
-📊 **Data Analyst & Data Science Enthusiast** | 🤖 Machine Learning | 🐍 Python
-
-I'm a Computer Science student passionate about **Data Analytics, Data Science, Machine Learning, and Software Development**.
-
-I enjoy transforming raw data into meaningful insights, building end-to-end data projects, and developing practical software solutions.
-
----
-
-## 🚀 About Me
-
-- 📊 Interested in **Data Analytics & Business Intelligence**
-- 🤖 Exploring **Machine Learning & Predictive Modeling**
-- 🐍 Working mainly with **Python, Pandas, NumPy & Scikit-learn**
-- 🔄 Building **ETL pipelines and data-processing workflows**
-- 📈 Creating dashboards and data visualizations
-- 💻 Developing software using **Python & C++**
-- 🧠 Improving my knowledge of **OOP, Data Structures & Algorithms**
-- 🌱 Continuously learning and building real-world projects
-
----
-
-# ⭐ Featured Projects
-
-### ⭐ 8 Featured Projects
-
-| ⭐ | Project | Description | Technologies |
-|---|---|---|---|
-| ⭐ | [Smartphone ETL & Smart Deal Analyzer](https://github.com/engmohammedhisham/Smartphone-ETL-Smart-Deal-Analyzer) | ETL pipeline, data cleaning, analysis and smart deal prediction | Python • Pandas • Machine Learning |
-| ⭐ | [Hotel Bookings Analysis](https://github.com/engmohammedhisham/hotel_bookings_analysis) | Hotel booking analysis, visualization and predictive modeling | Python • Pandas • Machine Learning |
-| ⭐ | [Machine Learning Internship](https://github.com/engmohammedhisham/machine-learning-intern) | Machine Learning projects and practical experiments | Python • Machine Learning |
-| ⭐ | [E-Commerce Console System](https://github.com/engmohammedhisham/E-Commerce-Console-System) | Console-based e-commerce management system | C++ • OOP |
-| ⭐ | [Pharmacy Management System](https://github.com/engmohammedhisham/pharmacy-management-system) | Pharmacy inventory and management system | Python • OOP • Tkinter |
-| ⭐ | [Student Management System](https://github.com/engmohammedhisham/Student-Management-System) | Student management and data handling system | Python • SQLite |
-| ⭐ | [Data Analysis Projects](https://github.com/engmohammedhisham?tab=repositories) | Data analysis and visualization projects | Python • Pandas • NumPy |
-| ⭐ | [All My Repositories](https://github.com/engmohammedhisham?tab=repositories) | Explore all my projects and experiments | GitHub |
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 📊 Data Analytics & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🤖 Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🔄 Data & Development Tools
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🔭 Currently Working On
-
-- 📊 End-to-end **Data Analytics projects**
-- 🔄 ETL pipelines and data cleaning
-- 🤖 Machine Learning models for real-world datasets
-- 📈 Business Intelligence dashboards
-- 🛒 E-commerce data analysis
-- 🧠 Improving my skills in Data Science and Machine Learning
-
----
-
-# 🎯 Career Focus
-
-**Data Analytics → Data Science → Machine Learning**
-
-My goal is to combine programming, statistics, visualization, and machine learning to build practical data-driven solutions.
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hisham-09b85637/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eng_mohammed_hisham)
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@eng_mohammedhisham)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midohishamsamir67@icloud.com)
-
----
-
-# 📊 GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=engmohammedhisham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" height="180"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=200&section=header&text=Mohammed%20Hisham&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=CSAI%20Student%20%40%20Zewail%20City%20%7C%20Data%20Science%2C%20ML%20%26%20Software%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" alt="Mohammed Hisham Header" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmohammedhisham&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=engmohammedhisham&theme=tokyonight&hide_border=true" height="180"/>
+<p>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/mohammed-hisham-09b85637a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://engmohammedhisham.github.io/protofoilio/">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://instagram.com/eng_mohammed_hisham">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://tiktok.com/@eng_mohammedhisham">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+</p>
 
 </div>
 
----
+About Me
 
-# ⭐ Total Stars Earned
+I'm a second-year Computational Sciences & Artificial Intelligence (CSAI) student at Zewail City of Science and Technology and a Junior Teaching Assistant for Digital Logic (CSAI 102).
+
+Focus Areas: Data Analytics, ETL Pipelines, Predictive Modeling, and Object-Oriented Software Development
+
+Currently Building: End-to-end data pipelines, BI dashboards, and applied ML models on real-world datasets
+
+Goal: Combining programming, statistics, and machine learning to turn raw data into reliable, working products
+
+Featured Projects
+
+Project
+
+Highlights
+
+Tech Stack
+
+Hotel Bookings Analysis
+
+End-to-end resort hotel analytics, statistical testing, Excel dashboards, and cancellation prediction (Random Forest — 95.74% accuracy without data leakage)
+
+Python, Pandas, Scikit-learn, Excel
+
+Smartphone ETL & Smart Deal Analyzer
+
+Automated ETL pipeline for smartphone market data acquisition, price prediction, and smart deal detection
+
+Python, Pandas, Machine Learning
+
+Machine Learning Internship
+
+Applied machine learning experiments covering preprocessing, modeling, and evaluation
+
+Python, Jupyter, Scikit-learn
+
+Pharmacy Management System
+
+Desktop POS and inventory management app with real-time sales logging and OOP architecture
+
+Python, OOP, Tkinter, Pandas
+
+Student Management System
+
+Desktop GUI for managing student records, tracking payments, and exporting reports to Excel
+
+Python, Tkinter, SQLite
+
+E-Commerce Console System
+
+Dual-role (Admin/Customer) CLI e-commerce system demonstrating OOP design and file handling
+
+C++, OOP
+
+Explore all repositories on my GitHub Repositories page.
+
+Tech Stack
+
+Languages
+
+Data Analytics & Visualization
+
+Machine Learning
+
+Tools & Platforms
+
+GitHub Analytics
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/badge/Total%20Stars%20Earned-8-FFD700?style=for-the-badge&logo=github&logoColor=white)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=engmohammedhisham&show_icons=true&theme=transparent&title_color=0284C7&icon_color=0284C7&text_color=7D8590&hide_border=true" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmohammedhisham&layout=compact&theme=transparent&title_color=0284C7&text_color=7D8590&hide_border=true" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=engmohammedhisham&theme=transparent&ring=0284C7&fire=0284C7&currStreakLabel=0284C7&sideLabels=7D8590&currStreakNum=7D8590&sideNums=7D8590&dates=7D8590&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
-
-
-
-> **Turning data into insights, and ideas into working solutions.**
+<p align="center">
+<i>Turning data into insights, and ideas into working solutions.</i>
+</p>
