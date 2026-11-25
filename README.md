@@ -116,7 +116,6 @@ My goal is to combine programming, statistics, visualization, and machine learni
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engmohammedhisham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" height="175" alt="GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmohammedhisham&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com/?user=engmohammedhisham&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
